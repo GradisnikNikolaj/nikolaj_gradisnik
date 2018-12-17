@@ -13,3 +13,10 @@ Changes to be committed:
         modified:   glasba.txt
         modified:   porocilo.txt
         modified:   tmp.txt
+-----------------------------------------------
+toèka 3
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        deleted:    vaja/tmp.txt
