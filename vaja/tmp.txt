@@ -1,0 +1,1 @@
+ustvaril sem datoteko test.txt da bi bolje razumel git, mogoèe se bo to poznalo v commitu

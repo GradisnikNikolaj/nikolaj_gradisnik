@@ -1,0 +1,7 @@
+toèka 1
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   vaja/glasba.txt
+        new file:   vaja/porocilo.txt
+        new file:   vaja/tmp.txt
