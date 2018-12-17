@@ -5,3 +5,11 @@ Changes to be committed:
         new file:   vaja/glasba.txt
         new file:   vaja/porocilo.txt
         new file:   vaja/tmp.txt
+-----------------------------------------------
+toèka 2
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   glasba.txt
+        modified:   porocilo.txt
+        modified:   tmp.txt
